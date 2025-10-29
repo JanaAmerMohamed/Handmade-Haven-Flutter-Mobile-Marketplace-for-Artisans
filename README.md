@@ -103,7 +103,7 @@ APK](https://drive.google.com/file/d/1eNN-aJCBd1AVt9nkr2TdHJvAvz18Aq9T/view?usp=
 
 ## Screenshots
 
-#Buyer Features
+## Buyer Features
 
 <img width="474" height="282" alt="image" src="https://github.com/user-attachments/assets/54c81e89-3b16-4e89-80f0-dab9f6413a50" />
 <img width="488" height="357" alt="image" src="https://github.com/user-attachments/assets/8fb6805c-93b1-45b8-9550-04972d9c34ec" />
@@ -114,7 +114,7 @@ APK](https://drive.google.com/file/d/1eNN-aJCBd1AVt9nkr2TdHJvAvz18Aq9T/view?usp=
 <img width="491" height="377" alt="image" src="https://github.com/user-attachments/assets/e3a5d48a-fb6a-4da6-8075-d2b629a3b004" />
 <img width="505" height="412" alt="image" src="https://github.com/user-attachments/assets/fec326c6-0b09-416a-91d0-92ff8a0b311c" />
 
-#Seller Features
+## Seller Features
 
 <img width="469" height="331" alt="image" src="https://github.com/user-attachments/assets/061441df-ee74-4da9-b3ec-bcc50b9129c5" />
 <img width="479" height="330" alt="image" src="https://github.com/user-attachments/assets/2004aabd-bf03-4962-ba08-3a641c31ed35" />
